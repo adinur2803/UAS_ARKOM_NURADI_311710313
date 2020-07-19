@@ -1,0 +1,39 @@
+Nama	: Nurhadi
+NIM	: 311710313
+Kelas	: TI.17.D.4
+Matkul	: Arsitektur komputer
+Jawab	:
+1.	Unit Kontrol yang mengatur jalannya program
+•  Mengatur dan mengontrol alat input (masukan) dan output (keluaran).
+•  Mengambil instruksi dari memori utama.
+•  Mengambil data dari memori utama (jika diperlukan) untuk diproses.
+•  Mengirim instruksi ke ALU bila ada perhitungan aritmatika dan perbandingan logika, lalau mengawasi kerja dari ALU.
+	•  Menyimpan hasil proses ke memori utama.
+-	Register adalah perangkat penyimpanan kecil yang memiliki akses ke kecepatan yang cukup tinggi, yang digunakan untuk menyimpan data dan / atau instruksi yang sedang diproses
+-	Unit ALU berfungsi untuk melakukan operasi aritmetika dan operasi logika berdasar instruksi yang ditentukan. Tugas utama dari ALU adalah melakukan semua perhitungan aritmatika yang terjadi sesuai dengan perintah program.
+-	CPU Interconnections Adalah sistem koneksi dan bus yang menghubungkan komponen internal CPU, yaitu ALU, unit kontrol dan register-register dan juga dengan bus-bus eksternal CPU yang menghubungkan dengan system lainnya.
+2.	-  ECM (Engine control module) adalah module yang secara khusus mengatur kinerja mesin.
+-	TCM (transmission control module) adalah module yang hanya ada pada mobil bertransmisi otomatis.
+-	BCM (body control module)  adalah module yang secara khusus mengatur kinerja kelistrikan body, seperti lampu, klakson, wiper otomatis/ manual. Dan sistem hiburan pada dashboard.
+-	PCM (powertrain control module)  yang khusus mengatur kinerja sistem powertrain mobil.
+-	 ABS Control Module adalah modul yang diletakan pada mobil berteknologi rem ABS.
+-	Airbag Control Module adalah modul untuk keselamatan atau - safety pengendara, yakni sistem airbag.
+-	HVAC Control Module Module ini juga hanya dapat ditemui pada mobil yang mengusung auto AC system
+-	EPS (Electronic Power Steering) menggunakan motor elektrik yang terpasang langsung di sistem kemudi untuk meringankan putaran setir.
+-	SRS (Supplemental Restraint System) adalah singkatan dari Supplemental Restraint System, yang artinya peralatan penahan tambahan dari seatbelt.
+3.	– Format intruksi 3 alamat
+-	Format intruksi 2 alamat
+-	Format intruksi 1 alamat
+-	Format intruksi 0 alamat
+4.	 - Dapat dilihat pada operasi multiasking seperti UNIX - Trasnfer data dengan mode DMA akan mengehamt sumberdata CPU sehingga CPU dapat melakukan pekerjaan yang lain. 
+- Sedangkan pada DOS (yang merupakan operasi single
+-tasking) harus menunggu sampai proses selesai terlebih dahulu baru kemudian bisa menjalankan proses berikutnya.
+5.	– Pipelin Intruksi Biasanya digunakan di unit pemroses sentral agar instruksi - instruksi dapat dijalankan dalam satu waktu dalam satu sirkuit digital.
+-	 Pipelin grafis sering ditemukan dalam sebagian besar unit pemrosesan grafis, yang terdiri dari berbagai unit aritmatik atau unit pemroses sentral lengkap, yang menerapkan berbagai macam tahap dari operasi render yang umum (seperti proyeksi perspektif, kalkulasi warna dan pencahayaan, primitif gambar, dan sebagainya).
+
+
+
+
+
+
+
